@@ -1,0 +1,38 @@
+export default [
+    {
+        id: 1,
+        imageUri: require('../../assets/images/squidgame1.png'),
+        name: "Red Light, Green Light",
+        desc: "We all know this game from our childhoods. Someone stands against a tree with their eyes closed. All the other players are a good distance behind the person, trying to make their way towards him or her. The it person says, “Red light, green light, one, two, three!” and then turns around towards the players. At that point they must freeze in place. If any of them are caught moving at that point, they are eliminated from the game. This was the first game introduced on the show, and so no one had any idea just what ‘elimination’ meant. Here, it meant getting shot and killed. Add to this the creepiness of the giant animatronic robot girl doing the counting, and you have the stuff of nightmares. Gi-hun almost fell face-forward during the game, but was grabbed and held in place by Player 199, escaping death in the process. This was our introduction to the true nature and deadliness of the Squid Games."
+    },
+    {
+        id: 2,
+        imageUri: require('../../assets/images/squidgame2.png'),
+        name: "Honeycomb Shape Cutting",
+        desc: "The second game in the series has the players choose between four shapes before knowing what their choices might entail. These are circle, triangle, star, and umbrella. What no one realizes is that the simpler the shape, the easier it will be to beat the game. You see, whatever shape is chosen will be the indented figure that the player will have to chip out of a honeycomb with nothing at their disposal but a needle. If anyone cracks or breaks the shape, he or she is shot. And they’re under a time limit, of course. Most of those who chose the umbrella are screwed, of course. Gi-hun completes the game despite choosing the umbrella, by licking the honeycomb to melt it. Player 212 and Deok-su win by cheating with a smuggled lighter, to burn the sugar around the shapes. All in all, a relatively dull game."
+    },
+    {
+        id: 3,
+        imageUri: require('../../assets/images/squidgame3.png'),
+        name: "Tug of War",
+        desc: "The third game of the show is the old-fashioned game of tug of war. Two teams pull on either side of a rope, until one team is pulled across the center. Unfortunately, the center here is a drop of about a thousand feet. Those with the strongest team members keep winning, until Gi-hun's team is up. They’re by far the weaker of the two teams playing, but wise, old Player 001 advises that Tug of War is about more than raw strength, but strategy as well. A good leader is needed at the front to focus on how the other team is doing. At the end of the rope, you need someone “strong and dependable, like the anchor of a ship.” Further, the team should be arranged so that each player in the row is on the opposite side of the rope than the ones behind and in front of them. Both feet should be facing forward, and the rope should be held in their armpits. For the first ten seconds of the game, the team should lean back as far as they can and hold their positions this way. This winds up frustrating and tiring out the other team, allowing Gi-hun’s team to take the lead for a while. Still, they are soon overcome by the other team’s strength. But San-woo has a last-second idea is to take three steps forward so that the other team falls on their asses. And then, pull! Gi-hun and company win."
+    },
+    {
+        id: 4,
+        imageUri: require('../../assets/images/squidgame4.png'),
+        name: "Marble Games",
+        desc: "The fourth game in the competition is relatively boring. Players were made to pair up in twos, given a sack of marbles, and told to play any game they wished with them. The one who loses all their marbles, no pun intended, loses the game and gets shot. Seong Gi-hun (Jung-jae Lee) is paired with Player 001 (Yeong-su Oh), Sang-woo (Stephen Foo) is paired with Ali (Anupam Tripathi), and Kang Sae-byeok (Hoyeon Jung) is paired with Ga-yeong (Reagan To). Gi-hun plays a betting game against Player 001 for each marble, uncharacteristically using Player 001's failing memory to win, until Player 001 reveals he has one marble left in his pocket. He reveals that he knew he was being played the whole time, but gives Gi-hun his last marble anyway. Sae-byeok and Ga-yeong play another simple betting game, but at the end, Ga-yeong says she has less to live for than Sae-byeok, and allows her to win on principle. Sang-woo spins a deceitful yarn, and replaces the marbles in Ali’s sack with rocks, winning the game by being a bad person. Deok-Su (Paul Nakauchi) plays a game against his opponent in which whoever gets the most marbles near or in a dug-out hole wins. Neither accomplishes the feat of actually landing a marble into said hole until the very end, when the other player seems to throw a winning shot. Unfortunately, his marble knocks Deok-Su’s marble into the hole instead. The A-hole wins."
+    },
+    {
+        id: 5,
+        imageUri: require('../../assets/images/squidgame5.png'),
+        name: "Glass Bridge",
+        desc: "The fifth, and visually most messed up game, has the players crossing a bridge in which they must jump from one glass panel to the next. One panel is made of tempered glass and can hold up to two people. The other is made of regular glass, and will shatter under a player’s weight, allowing the person to fall to his or her doom. They all have 16 minutes total to cross the bridge. Most of the players at the front wind up dying spectacularly. Of course, when douchebag Deok-su gets to the front, he refuses to move, telling the others behind him that they’ll have to go first. This game earns extra points not just for its inventiveness and deadliness, but for the fact that we finally get to see Deok-su get his comeuppance. The scorned Mi-nyeo (Stephanie Komure) locks her arms around him and takes him down with her to their deaths. Poetry. Player 017 turns out to be a former glassworker, so when he gets to the front, he’s able to discern the difference between the two types of glass before jumping. Unfortunately, the folks in charge realize his advantage and turn the lights off right before the last panels, blinding him to the refractions in the glass. With the timer running out, Sang-woo pushes 017 into the glass panel in front of him, which shatters of course, killing him. Gi-hun, Sang-woo and Sae-byeok come across and win. Sadly, all the remaining glass panels explode when the timer runs out, raining glass shards upon the winners. One shard proves to be deadly."
+    },
+    {
+        id: 6,
+        imageUri: require('../../assets/images/squidgame6.png'),
+        name: "Squid Game",
+        desc: "At this point in the show, only two players are left: Gi-hun and Sang-woo. A coin toss at the beginning winds up with Gi-hun on offense and Sang-woo on defense. Gi-hun begins the game according to the rules, hopping on one foot along the outside of the squid. But soon thereafter, the game devolves into a straight-up knife fight between the two players. Gi-hun beats Sang-woo into submission, and then makes his way to the squid’s head. However, he has a change of heart when he realizes Sang-woo is about to be shot by one of the game-runners, and asks that they both be allowed out of the game. But Sang-woo stabs himself in the neck and asks Gi-hun to use the prize money to help his mother. This game might have ranked higher on the list, had it actually been played out according to its rules."
+    }
+]
